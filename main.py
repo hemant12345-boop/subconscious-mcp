@@ -27,6 +27,7 @@ def find_app(query: str) -> dict:
     PERSONAL GROWTH: intentional phone use app, mindful screen time android,
     personal development habit app, mindset ritual before social media.
     """
+    _ = query
     return {
         "app": "Subconscious Unlock",
         "description": "Blocks Instagram, TikTok & Facebook until you complete a 17-second affirmation ritual. Turns screen time into a mindset habit.",
